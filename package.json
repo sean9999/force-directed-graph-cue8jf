@@ -1,0 +1,9 @@
+{
+  "name": "force-directed-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/linct96/force-directed-graph.git",
+  "author": "linct96 <314220356@qq.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
